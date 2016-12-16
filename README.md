@@ -39,7 +39,10 @@ Steps
 3. Added to `cocos2d/cocos/platform/android/jni/JniHelper.h` function GetActivity to get Activity.
 
     https://github.com/yinjimmy/firebase/blob/master/cocos2d/cocos/platform/android/jni/JniHelper.h#L49
+	https://github.com/yinjimmy/firebase/blob/master/cocos2d/cocos/platform/android/jni/JniHelper.h#L179
+	https://github.com/yinjimmy/firebase/blob/master/cocos2d/cocos/platform/android/jni/JniHelper.cpp#L70
     https://github.com/yinjimmy/firebase/blob/master/cocos2d/cocos/platform/android/jni/JniHelper.cpp#L126
+	https://github.com/yinjimmy/firebase/blob/master/cocos2d/cocos/platform/android/jni/JniHelper.cpp#L157
 
 4. Modified `proj.android/AndroidManifest.xml`
 
@@ -55,8 +58,9 @@ Steps
 Test
 ---
 
-https://github.com/yinjimmy/firebase/blob/master/Classes/AppDelegate.cpp#L4-L13
-https://github.com/yinjimmy/firebase/blob/master/Classes/AppDelegate.cpp#L156
+https://github.com/yinjimmy/firebase/blob/master/Classes/AppDelegate.cpp#L4-L56
+https://github.com/yinjimmy/firebase/blob/master/Classes/AppDelegate.cpp#L91-L156
+https://github.com/yinjimmy/firebase/blob/master/Classes/AppDelegate.cpp#L199
 
 
 Error
